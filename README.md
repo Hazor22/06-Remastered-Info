@@ -32,20 +32,15 @@ The plan is made to once we have added a spawnable system similar to RuneWild's 
 
 ## How To Play?
 
-1. First of all, you must create an account here: https://06-Remastered]/
-The account is used to log both into the game and our website.
-- Remember your login credentials.
+1. First of all, you must create an account, you need to login once with your desired username/password and then from that point onwards you will have created your account.
 
 
-2. Download Project Hellscream Client's Here:
-
-Client download links on our how to play page.
-http://logon.hellscream.org/page/connect
-* You must have a torrent client installed to download Project Hellscream, we recommend u-Torrent. 
+2. Download [06-Remastered] Client's Here:
+https://discord.com/channels/893002991475499019/893002992314368001/893038823972405248
 
 
 You may now start playing! If you need any help reach out to us in our Discord.
-Please report all bugs here https://github.com/Hazor-Hellscream/Project-Hellscream-Info/issues.
+Please report all bugs here to our github issue tracker.
 
 ------------------------------------------------------------------------------------
 
