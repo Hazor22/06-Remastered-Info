@@ -26,7 +26,7 @@ https://06-Remastered.com
 
 20x Rates/Preset PvP/PvM Server - 
 
-The plan is made to once we have added a spawnable system similar to RuneWild's preset PvP/PvM system into the world of 2006 with Barrows as "Bis" with stores for all the needed end game content, teleporters, and much more!.
+The plan once we have added a spawnable system similar to RuneWild's preset PvP/PvM system into the world of 2006 with Barrows as "Bis" with stores for all the needed end game content, teleporters, and much more!.
 
 ------------------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ Rules Release Soon
 ------------------------------------------------------------------------------------
 ## Discord
 
-Interested in helping "Project Hellscream" with Alpha testing please join our discord community.
+Interested in helping "[06-Remastered]" with Alpha testing please join our discord community.
 
 Discord Invite Link Below: 
 https://discord.gg/5SEq8GUhDz
