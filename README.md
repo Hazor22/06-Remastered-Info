@@ -2,13 +2,10 @@
 ------------------------------------------------------------------------------------
 
 ## Information and Updates
-* [How To Play?](#how-to-play?)
 * [Rule List](#rule-list)
 * [Our Dedicated Server Specs](#our-dedicated-server-specs)
 * [Discord](#discord)
 * [Core Mechanics](#core-mechanics)
-* [Game Events](#game-events)
-* [Introduction](#introduction)
 
 ------------------------------------------------------------------------------------
 
@@ -62,34 +59,11 @@ https://discord.gg/5SEq8GUhDz
 
 ## Our Dedicated Server Specs
 
-- Intel-7 16xCores
-- 2x1TB SAS
-- 32 GB DDR4 ECC 2133 MHz
-- 1000Mbps Full-Duplex
-- Traffic: Unlimited
-- Location: France
+Coming Soon In Beta Stages.
  
 ------------------------------------------------------------------------------------
 
 ## Core Mechanics
-
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
-------------------------------------------------------------------------------------
-
-## Game Events
 
 - 
 - 
